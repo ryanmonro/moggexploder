@@ -1,6 +1,8 @@
 # MOGG Exploder
 ### by Ryan Monro
 
+This extracts the channels from a .mogg format multitrack OGG Vorbis file and writes them to separate .WAV files. For people who are sick of opening Reaper and exporting things from there and importing them to the DAW they prefer. And feeling guilty about not registering Reaper when this is pretty much all they use it for.
+
 ### Instructions
 
 - install ffmpeg and ffprobe: the easiest way is [install Homebrew](https://brew.sh), then go to Terminal and type `brew install ffmpeg`
